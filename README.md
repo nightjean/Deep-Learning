@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://www.tensorflow.org/images/tf_logo_transp.png"><br><br>
 </div>
@@ -68,3 +69,7 @@ $ python
 * [TensorFlow MOOC on Udacity](https://www.udacity.com/course/deep-learning--ud730)
 
 The TensorFlow community has created amazing things with TensorFlow, please see the [resources section of tensorflow.org](https://www.tensorflow.org/about/#community) for an incomplete list.
+=======
+# Deep-Learning
+assignments
+>>>>>>> cb901867f9486403101d64e59608ff93cb511a16
